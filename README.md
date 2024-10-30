@@ -3,10 +3,10 @@ Welcome to the Library Management System project! This project is designed to ma
 
 # Table of Contents
 
-Features
-Installation
-Usage
-Database Schema
-Contributing
-License
-Contact
+  Features
+  Installation
+  Usage
+  Database Schema
+  Contributing
+  License
+  Contact
